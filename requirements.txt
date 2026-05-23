@@ -1,0 +1,13 @@
+# SentinelAI — HOG+SVM Person Detector
+# pip install -r requirements.txt
+
+scikit-learn>=1.0
+scikit-image>=0.19
+opencv-python>=4.5
+numpy>=1.21
+joblib>=1.0
+matplotlib>=3.4
+tqdm>=4.60
+Pillow>=8.0
+jupyter>=1.0
+ipykernel>=6.0
